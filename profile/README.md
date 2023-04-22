@@ -1,12 +1,5 @@
-## Techpoiint development
+## Techpoint
 
-<!--
+Welcome to Techpoint, a community-driven Discord server for programmers of all levels. Our focus is on open source projects, collaboration, and skill-building. As a member, you can participate in our open source projects, workshops, and Q&A sessions with industry professionals. Our community is inclusive and welcoming to all genders, ethnicities, and cultural backgrounds. Our experienced members offer support and guidance to those who need it. We also offer opportunities to network and make new friends through our regular events and gatherings. Join us and be part of our vibrant community of programmers!
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+https://discord.gg/techpoint-1016942011024158782
